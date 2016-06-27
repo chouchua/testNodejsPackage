@@ -1,0 +1,19 @@
+{
+  "name": "firstnodepackage",
+  "version": "1.0.0",
+  "description": "testing node.js package deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chouchua/testNodejsPackage.git"
+  },
+  "author": "Jimmy Chou <chuankengchou@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chouchua/testNodejsPackage/issues"
+  },
+  "homepage": "https://github.com/chouchua/testNodejsPackage#readme"
+}
